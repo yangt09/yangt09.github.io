@@ -9,7 +9,8 @@
 }
 
 .img {
- float: right; 
+ float: right;
+ vertical-align: middle;
 }
 
 .header {

@@ -1,7 +1,9 @@
 #container {
-  margin: 150px;
+  margin-top: 150px;
+  margin-left:200px;
+  margin-right:200px;
+  margin-bottom: 150;
   padding: 10px 150px 10px 150;
-  border-radius: 15px;
  
 }
 

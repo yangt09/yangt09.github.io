@@ -1,7 +1,11 @@
 #container {
   margin: 200px;
-  background-color: grey;
+
  
+}
+
+body {
+  background-color: grey;
 }
 
 #other {

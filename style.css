@@ -12,12 +12,12 @@
   line-height: 1.5em; 
 }
 
-#education {
+.education {
  margin-bottom: 10px;
  line-height: 1.5em; 
 }
 
-#organization {
+.organization {
  margin-bottom: 10px; 
  line-height: 1.5em; 
 }

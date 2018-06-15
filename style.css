@@ -10,8 +10,11 @@
 
 .profile-image {
 float: right;
-display: inline-block;
- 
+display: inline-block; 
+}
+
+.image-container {
+ margin-left: 1em; 
 }
 
 .header {

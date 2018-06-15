@@ -8,8 +8,9 @@
   
 }
 
-.img {
+.profile-image {
 float: right;
+display: inline-block;
  
 }
 

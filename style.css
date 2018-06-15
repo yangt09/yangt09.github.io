@@ -8,6 +8,10 @@
   
 }
 
+.profile-quote {
+ padding-right: 15em; 
+}
+
 .profile-image {
 float: right;
 display: inline-block; 
